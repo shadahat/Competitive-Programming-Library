@@ -3,7 +3,7 @@
               Each query will contain two indexes L and R (L>=R)
               You have to move the segment [L,R] to the beginning of the string
               *** All the indexes are zero based
-*/
+***/
 
 #include <bits/stdc++.h>
 #include <ext/rope>
